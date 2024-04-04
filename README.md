@@ -46,20 +46,6 @@ The web interface allows you to perform the following actions:
 - Save models: Save the trained models for future use.
 - Predictions: Make predictions on individual student records or entire datasets using the trained models.
 
-## Tested Environment
 
-This project has been tested and verified to work on the following environment:
-
-- Microsoft Azure Web App
-
-## Acknowledgments
-
-- Thanks to [@krishnaik06](https://github.com/krishnaik06).
-
-- The code in this repository is inspired by various ML implementations and tutorials available in the Machine Learning Community.
-
-## Contribution
-
-Contributions to the project are welcome! If you find any issues, have suggestions, or want to add new features, please feel free to create a pull request.
 
 
